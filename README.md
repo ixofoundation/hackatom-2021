@@ -5,8 +5,10 @@ Welcome HackAtom Teams! This is a living document to which we will be adding lin
 
 Please feel free to start a Github discussion to request more information, or make a PR if you want to add more tips, tools or resources to this repo.
 
+[Slides from the HackAtom Keynote & Workshop](https://app.pitch.com/app/presentation/a9202eb5-e2f5-4345-8c98-307f6ba95e02/39f4ebe0-7c28-410c-9b89-468ad3e3bb3d).
+
 ## Support
-- Join the [HackAtom Discord]() for general discussions and support requests to mentors for the Earth Prize track and related **Earth Tokens** and **Earth Crisis** challenges.
+- Join the HackAtom Discord (TBC) for general discussions and support requests to mentors for the Earth Prize track and related **Earth Tokens** and **Earth Crisis** challenges.
 - Join the [ixo Discord](https://discord.gg/4FytdewG8D) where you are welcome to request that we create a private channel for your team, in which you can discuss your project with domain experts and receive more focused support from the ixo team.
 - Weekly Challenge Room on Discord 
 
