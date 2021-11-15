@@ -10,7 +10,12 @@ Please feel free to start a Github discussion to request more information, or ma
 ## Support
 - Join the HackAtom Discord (TBC) for general discussions and support requests to mentors for the Earth Prize track and related **Earth Tokens** and **Earth Crisis** challenges.
 - Join the [ixo Discord](https://discord.gg/4FytdewG8D) where you are welcome to request that we create a private channel for your team, in which you can discuss your project with domain experts and receive more focused support from the ixo team.
-- Weekly Challenge Room on Discord 
+- Weekly Challenge Room on Discord - tbc
+
+## Issues and bugs
+- General issues may be posted in this repo and will be managed by the ixo team and collaborators through [this Github Project](https://github.com/ixofoundation/hackatom-2021/projects/1)
+- Issues and discussions relating to a specific component of the ixo software stack and protocol should please first be posted as discussions in the relevant Github sub-repo.
+- You are welcome to contribute fixes, improvements, or new features, by making a PR in the relevant repo. 
 
 ## Documentation
 We will continue adding to the documentation over the course of the HackAtom month. 
